@@ -1,0 +1,34 @@
+{
+  "name": "randomlines",
+  "version": "1.0.0",
+  "description": "ChatBot for getting random lines",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jahaan Jain",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "easytimer.js": "^3.1.0",
+    "express": "^4.17.1",
+    "mysql2": "^1.7.0",
+    "puppeteer": "^1.18.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "tmi.js": "^1.4.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahaanjain/RandomLines.git"
+  },
+  "keywords": [
+    "random",
+    "lines"
+  ],
+  "bugs": {
+    "url": "https://github.com/jahaanjain/RandomLines/issues"
+  },
+  "homepage": "https://github.com/jahaanjain/RandomLines#readme"
+}
