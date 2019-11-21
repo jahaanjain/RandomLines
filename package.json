@@ -9,13 +9,7 @@
   "author": "Jahaan Jain",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "easytimer.js": "^3.1.0",
-    "express": "^4.17.1",
-    "mysql2": "^1.7.0",
-    "puppeteer": "^1.18.1",
     "request": "^2.88.0",
-    "request-promise": "^4.2.4",
     "tmi.js": "^1.4.2"
   },
   "devDependencies": {},
