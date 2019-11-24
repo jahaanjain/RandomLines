@@ -5,8 +5,8 @@ Requirements:
 3. Required pre-installed node packages: 'tmi.js', 'fs', 'request', 'moment'
 
 Get started:
-1. Copy 'app.js' and 'lines.json' to the directory where the app dependencies are installed
-2. Open up 'app.js' and change the specified values
+1. Copy 'app.js', 'lines.json', and 'info.json' to the directory where the app dependencies are installed
+2. Open up 'info.json' and change the values with your own bot's information
 3. Start up 'app.js' by doing 'node app.js' in the console
 
 Commands:
