@@ -1,0 +1,12 @@
+{
+    "info": [
+      {
+        "debugMode": false,
+        "mChannel": "ENTER_CHANNEL_NAME",
+        "mPassword": "ENTER_BOT_OAUTH_CODE",
+        "mUsername": "ENTER_BOT_USERNAME",
+        "cooldown": 5,
+        "bannedWords": ["Word1", "Word2", "Word3 (You can keep adding words by using a comma)"]
+      }
+    ]
+  }
